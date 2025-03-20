@@ -1,0 +1,13 @@
+[build]
+  command = "CI=false npm run build"
+  publish = "build"
+
+# Handle client-side routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Set environment variables
+[build.environment]
+  CI = "false"

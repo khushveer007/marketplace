@@ -236,15 +236,15 @@ Please ensure your code follows the project's style guidelines and includes appr
 Join our community and stay up to date with the latest developments:
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
-  <a href="https://instagram.com/vahiring" style="text-decoration: none;">
+  <a href="https://www.instagram.com/khushveer.singh.deora/" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" width="40" height="40" alt="Instagram"/>
     <p>Instagram</p>
   </a>
-  <a href="https://t.me/vahiringmarketplace" style="text-decoration: none;">
+  <a href="https://t.me/Uraharashopowner" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" width="40" height="40" alt="Telegram"/>
     <p>Telegram</p>
   </a>
-  <a href="https://x.com/vahiring" style="text-decoration: none;">
+  <a href="https://x.com/Solitude_4Life" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" width="40" height="40" alt="X.com (Twitter)"/>
     <p>X.com</p>
   </a>

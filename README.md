@@ -63,7 +63,7 @@
       <br>Supabase
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Netlify_logo.svg/1200px-Netlify_logo.svg.png" width="48" height="48" alt="Netlify" />
+      <img src="https://www.svgrepo.com/show/376339/netlify.svg" width="48" height="48" alt="Netlify" />
       <br>Netlify
     </td>
   </tr>

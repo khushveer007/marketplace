@@ -59,7 +59,7 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="48" height="48" alt="Supabase" />
+      <img src="icons8-supabase.svg" width="48" height="48" alt="Supabase" />
       <br>Supabase
     </td>
     <td align="center" width="96">
